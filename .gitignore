@@ -1,1 +1,11 @@
+# ignora o arquivo .lock do software astah
 *.lock
+
+# ignora arquivos de node_modules
+/node_modules
+
+# ignora o arquivo de package-lock
+package-lock.json
+
+
+
